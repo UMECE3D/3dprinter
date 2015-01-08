@@ -24,5 +24,6 @@ Meshlab *.dae => *.stl http://meshlab.sourceforge.net/
 http://linuxg.net/how-to-install-meshlab-1-3-3-on-ubuntu-linux-mint-and-elementary-os-via-ppa/    
 https://www.shapeways.com/tutorials/sketchup_3d_printing_export_to_stl_tutorial
 http://www.guitar-list.com/download-software/convert-sketchup-skp-files-dxf-or-stl
+http://playuptools.blogspot.com/2011/08/part-vii-must-have-sketchup-plugins.html
 
 [1]: http://extensions.sketchup.com/en/content/sketchup-stl
